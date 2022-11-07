@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Web Developement
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on any Project contains Java EE and Angular
-- 📫 Reach me at : sathiesh.sogeti@gmail.com
+- 📫 Reach me at : sathieshkanth.arumaipillai@sogeti.com
 
 <!---
 sathieshkanth-sogeti/sathieshkanth-sogeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
